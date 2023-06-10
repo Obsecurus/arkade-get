@@ -14,6 +14,9 @@ inputs:
   arkade:
     description: 'Install arkade'
     required: false
+  atuin:
+    description: 'Install atuin'
+    required: false
   autok3s:
     description: 'Install autok3s'
     required: false
@@ -32,6 +35,9 @@ inputs:
   cilium:
     description: 'Install cilium'
     required: false
+  cilium:
+    description: 'Install cilium'
+    required: false
   civo:
     description: 'Install civo'
     required: false
@@ -46,6 +52,9 @@ inputs:
     required: false
   conftest:
     description: 'Install conftest'
+    required: false
+  copa:
+    description: 'Install copa'
     required: false
   cosign:
     description: 'Install cosign'
